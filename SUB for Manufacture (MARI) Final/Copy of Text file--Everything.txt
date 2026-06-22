@@ -1,0 +1,9 @@
+Number of unique parts:36 
+
+Number of surface mounted parts:24
+
+Number of QFP/BGA parts total:1
+
+Number of through hole parts total: 24
+
+Board Dimensions:99.04mm x 132.39mm
