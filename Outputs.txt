@@ -1,0 +1,29 @@
+/**
+ * @file    drtos.h
+ * @brief   Convenience header — includes the entire Drone RTOS API.
+ */
+
+#ifndef DRTOS_H
+#define DRTOS_H
+
+/* Kernel core */
+#include "drtos_config.h"
+#include "drtos_types.h"
+#include "drtos_task.h"
+#include "drtos_scheduler.h"
+
+/* Synchronisation primitives */
+#include "drtos_mutex.h"
+#include "drtos_semaphore.h"
+
+/* Data structures */
+#include "drtos_queue.h"
+#include "drtos_ringbuffer.h"
+
+/* Drone-specific data models */
+#include "drtos_imu.h"
+#include "drtos_baro.h"
+#include "drtos_rc.h"
+#include "drtos_telemetry.h"
+
+#endif /* DRTOS_H */

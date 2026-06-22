@@ -1,0 +1,11 @@
++RCV=1,48,DRTOS TESTER v1.0 BOOT OK tasks=5 tick=1000 Hz,-85,40
++RCV=1,39,[00000] HB up=1050 arm=0 lp=12,-87,39
++RCV=1,62,[00000] IMU ax=0.05 ay=-0.02 az=9.81 gx=0.001 gy=-0.002 gz=0.001,-86,40
++RCV=1,40,[00000] ALT p=101325.0 t=27.5 h=0.00,-88,39
++RCV=1,38,[00000] RC T=0.00 R=0.00 P=0.00 Y=0.00 M=0,-87,40
++RCV=1,28,[00000] MOT 0.00 0.00 0.00 0.00,-86,39
++RCV=1,42,[00000] SYS imu=100/0 bar=50/0 lt=12 ltm=15,-85,40
++RCV=1,20,STK IMU hw=480/512 st=2,-87,39
++RCV=1,24,KRN tasks=5 cpu=8% idle=920,-86,40
++RCV=1,18,QUE imu=0/8 baro=0/4,-88,39
++RCV=1,20,RBF lora used=0 free=512,-87,40
